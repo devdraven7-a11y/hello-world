@@ -1,2 +1,8 @@
-# hello-world
-Este repositório é para praticar o fluxo do GitHub.
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
